@@ -1,0 +1,483 @@
+{
+  "projects": [
+    {
+      "id": "golden-bean-coffee",
+      "title": "Golden Bean Coffee",
+      "titleAr": "قهوة بطعم مختلف — Golden Bean Coffee",
+      "titleEn": "A Taste of Distinction — Golden Bean Coffee",
+      "category": "advertising",
+      "categoryAr": "إعلانات",
+      "categoryEn": "Advertising",
+      "image": "/assets/images/project_coffee.jpg",
+      "images": [
+        "/assets/images/project_coffee.jpg",
+        "/assets/images/portfolio_board.jpg"
+      ],
+      "descAr": "تصميم إعلاني ترويجي لقهوة فاخرة مع التركيز على دمج الإضاءة الدرامية، حبوب القهوة الطازجة، والخطوط الذهبية الأنيقة لإبراز الطابع الفاخر للعلامة التجارية.",
+      "descEn": "High-end commercial promotional poster for luxury coffee brand emphasizing dramatic chiaroscuro lighting, coffee beans splash, and golden typography.",
+      "descriptionAr": "تصميم إعلاني ترويجي لقهوة فاخرة مع التركيز على دمج الإضاءة الدرامية، حبوب القهوة الطازجة، والخطوط الذهبية الأنيقة لإبراز الطابع الفاخر للعلامة التجارية.",
+      "descriptionEn": "High-end commercial promotional poster for luxury coffee brand emphasizing dramatic chiaroscuro lighting, coffee beans splash, and golden typography.",
+      "tools": [
+        "Adobe Photoshop",
+        "AI Generation",
+        "Commercial Lighting",
+        "Typography"
+      ],
+      "tags": [
+        "قهوة",
+        "إعلانات تجارية",
+        "فوتوشوب",
+        "إضاءة درامية"
+      ],
+      "clientAr": "Golden Bean Coffee",
+      "clientEn": "Golden Bean Coffee",
+      "year": "2026",
+      "featured": true,
+      "visible": true,
+      "order": 1,
+      "slug": "golden-bean-coffee",
+      "seoTitle": "Golden Bean Coffee Ad Design — Mohab Mohammed",
+      "seoDescription": "High-end commercial promotional poster for luxury coffee brand by Mohab Mohammed.",
+      "createdAt": "2026-09-01T10:00:00.000Z",
+      "updatedAt": "2026-09-20T20:00:00.000Z"
+    },
+    {
+      "id": "modern-villa-realestate",
+      "title": "Al-Ofuq Real Estate",
+      "titleAr": "امتلك منزل أحلامك — الأفق العقارية",
+      "titleEn": "Own Your Dream Home — Al-Ofuq Real Estate",
+      "category": "print",
+      "categoryAr": "مطبوعات",
+      "categoryEn": "Print",
+      "image": "/assets/images/project_villa.jpg",
+      "images": [
+        "/assets/images/project_villa.jpg"
+      ],
+      "descAr": "فلاير تسويقي عقاري لمشروع فيلات سكنية فاخرة بمواصفات عصرية وموقع مميز، مع توزيع متوازن للمعلومات وتسهيلات السداد.",
+      "descEn": "Architectural marketing flyer for modern residential villas with clear visual hierarchy, payment facility badges, and property feature icons.",
+      "descriptionAr": "فلاير تسويقي عقاري لمشروع فيلات سكنية فاخرة بمواصفات عصرية وموقع مميز، مع توزيع متوازن للمعلومات وتسهيلات السداد.",
+      "descriptionEn": "Architectural marketing flyer for modern residential villas with clear visual hierarchy, payment facility badges, and property feature icons.",
+      "tools": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Print CMYK Grid"
+      ],
+      "tags": [
+        "عقارات",
+        "فلاير",
+        "مطبوعات",
+        "تصميم معماري"
+      ],
+      "clientAr": "الأفق العقارية",
+      "clientEn": "Al-Ofuq Real Estate",
+      "year": "2026",
+      "featured": true,
+      "visible": true,
+      "order": 2,
+      "slug": "modern-villa-realestate",
+      "seoTitle": "Luxury Villa Marketing Flyer — Mohab Mohammed",
+      "seoDescription": "High-impact real estate marketing print collateral designed by Mohab Mohammed.",
+      "createdAt": "2026-09-03T11:00:00.000Z",
+      "updatedAt": "2026-09-20T20:00:00.000Z"
+    },
+    {
+      "id": "sky-travel-brochure",
+      "title": "Sky Travel Brochure",
+      "titleAr": "إكتشف العالم مع أفضل العروض — Sky Travel",
+      "titleEn": "Discover The World With Best Offers — Sky Travel",
+      "category": "print",
+      "categoryAr": "مطبوعات",
+      "categoryEn": "Print",
+      "image": "/assets/images/project_travel.jpg",
+      "images": [
+        "/assets/images/project_travel.jpg"
+      ],
+      "descAr": "تصميم بروشور سياحي ثلاثي الطيات (Tri-fold) يعرض رحلات دولية وسياحية وشواطئ خلابة مع معالم سياحية عالمية مثل برج إيفل والشواطئ الأوروبية.",
+      "descEn": "Tri-fold travel agency brochure featuring world-class destinations, flight packages, hotel bookings, and vivid travel photography.",
+      "descriptionAr": "تصميم بروشور سياحي ثلاثي الطيات (Tri-fold) يعرض رحلات دولية وسياحية وشواطئ خلابة مع معالم سياحية عالمية مثل برج إيفل والشواطئ الأوروبية.",
+      "descriptionEn": "Tri-fold travel agency brochure featuring world-class destinations, flight packages, hotel bookings, and vivid travel photography.",
+      "tools": [
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "Editorial Layout"
+      ],
+      "tags": [
+        "سياحة",
+        "بروشور",
+        "مطبوعات",
+        "سفر"
+      ],
+      "clientAr": "Sky Travel",
+      "clientEn": "Sky Travel",
+      "year": "2026",
+      "featured": true,
+      "visible": true,
+      "order": 3,
+      "slug": "sky-travel-brochure",
+      "seoTitle": "Sky Travel Tri-fold Brochure Design — Mohab Mohammed",
+      "seoDescription": "Tri-fold travel brochure designed by Mohab Mohammed.",
+      "createdAt": "2026-09-05T12:00:00.000Z",
+      "updatedAt": "2026-09-20T20:00:00.000Z"
+    },
+    {
+      "id": "showcase-board",
+      "title": "Master Advertising & Print Showcase Board",
+      "titleAr": "معرض أعمال الإعلانات والمطبوعات الشامل",
+      "titleEn": "Comprehensive Advertising & Print Showcase Board",
+      "category": "branding",
+      "categoryAr": "هوية بصرية",
+      "categoryEn": "Branding",
+      "image": "/assets/images/portfolio_board.jpg",
+      "images": [
+        "/assets/images/portfolio_board.jpg"
+      ],
+      "descAr": "لوحة العرض الشاملة لمجموعة أعمال الإعلانات والمطبوعات التجارية تضم ملصقات الرول أب، كروت شخصية فاخرة، بوسترات مطاعم، وبوسترات سوشيال ميديا.",
+      "descEn": "Comprehensive master showcase displaying corporate roll-up banners, foil-stamped business cards, restaurant posters, and social media designs.",
+      "descriptionAr": "لوحة العرض الشاملة لمجموعة أعمال الإعلانات والمطبوعات التجارية تضم ملصقات الرول أب، كروت شخصية فاخرة، بوسترات مطاعم، وبوسترات سوشيال ميديا.",
+      "descriptionEn": "Comprehensive master showcase displaying corporate roll-up banners, foil-stamped business cards, restaurant posters, and social media designs.",
+      "tools": [
+        "Photoshop",
+        "Illustrator",
+        "Visual Composition",
+        "Brand Guidelines"
+      ],
+      "tags": [
+        "هوية بصرية",
+        "رول أب",
+        "كروت عمل",
+        "إعلانات"
+      ],
+      "clientAr": "أعمال تجارية متنوعة",
+      "clientEn": "Various Commercial Clients",
+      "year": "2026",
+      "featured": false,
+      "visible": true,
+      "order": 4,
+      "slug": "showcase-board",
+      "seoTitle": "Comprehensive Advertising Showcase Board — Mohab Mohammed",
+      "seoDescription": "Master brand identity and collateral showcase board by Mohab Mohammed.",
+      "createdAt": "2026-09-08T09:00:00.000Z",
+      "updatedAt": "2026-09-20T20:00:00.000Z"
+    },
+    {
+      "id": "healthy-life-social",
+      "title": "Healthy Life Social Media Campaign",
+      "titleAr": "حياة صحية لحياة أفضل — Healthy Life",
+      "titleEn": "Healthy Life For A Better Living",
+      "category": "social",
+      "categoryAr": "سوشيال ميديا",
+      "categoryEn": "Social Media",
+      "image": "/assets/images/project_coffee.jpg",
+      "images": [
+        "/assets/images/project_coffee.jpg"
+      ],
+      "descAr": "تصميم سوشيال ميديا تفاعلي لمبادرة نمط حياة صحي مع إبراز طبق الخضروات الطازجة وشعارات التغذية والنشاط البدني لجذب التفاعل.",
+      "descEn": "Engaging social media post design advocating healthy lifestyle habits, fresh salads, and physical wellness with clean UI framing.",
+      "descriptionAr": "تصميم سوشيال ميديا تفاعلي لمبادرة نمط حياة صحي مع إبراز طبق الخضروات الطازجة وشعارات التغذية والنشاط البدني لجذب التفاعل.",
+      "descriptionEn": "Engaging social media post design advocating healthy lifestyle habits, fresh salads, and physical wellness with clean UI framing.",
+      "tools": [
+        "Adobe Photoshop",
+        "Social Media Grid",
+        "Color Grading"
+      ],
+      "tags": [
+        "سوشيال ميديا",
+        "تغذية صحية",
+        "فوتوشوب"
+      ],
+      "clientAr": "Healthy Life",
+      "clientEn": "Healthy Life",
+      "year": "2026",
+      "featured": false,
+      "visible": true,
+      "order": 5,
+      "slug": "healthy-life-social",
+      "seoTitle": "Healthy Life Social Media Campaign — Mohab Mohammed",
+      "seoDescription": "Social media creative design by Mohab Mohammed.",
+      "createdAt": "2026-09-10T14:00:00.000Z",
+      "updatedAt": "2026-09-20T20:00:00.000Z"
+    },
+    {
+      "id": "ai-creative-fusion",
+      "title": "التكوين البصري والذكاء الاصطناعي — AI × Design",
+      "titleAr": "التكوين البصري والذكاء الاصطناعي — AI × Design",
+      "titleEn": "Visual Synthesis & AI Integration — AI × Design",
+      "category": "ai",
+      "categoryAr": "AI",
+      "categoryEn": "AI",
+      "image": "/uploads/portfolio/ChatGPT_Image_21________2026___1789976195684.png",
+      "images": [
+        "/uploads/portfolio/ChatGPT_Image_21________2026___1789976195684.png",
+        "/assets/images/hero_banner.jpg"
+      ],
+      "descAr": "عمل إبداعي تجريبي يوضح قوة دمج التوليد بالذكاء الاصطناعي مع التعديل الفني الدقيق في فوتوشوب لخلق مشاهد سينمائية تتجاوز الواقع.",
+      "descEn": "Experimental visual artwork illustrating the seamless blend of generative AI concepts with meticulous Photoshop retouching and illumination.",
+      "descriptionAr": "عمل إبداعي تجريبي يوضح قوة دمج التوليد بالذكاء الاصطناعي مع التعديل الفني الدقيق في فوتوشوب لخلق مشاهد سينمائية تتجاوز الواقع.",
+      "descriptionEn": "Experimental visual artwork illustrating the seamless blend of generative AI concepts with meticulous Photoshop retouching and illumination.",
+      "tools": [
+        "Generative AI",
+        "Photoshop Neural Filters",
+        "Digital Painting"
+      ],
+      "tags": [
+        "ذكاء اصطناعي",
+        "فوتوشوب",
+        "سينمائي",
+        "فن رقمي"
+      ],
+      "clientAr": "مشروع استوديو شخصي",
+      "clientEn": "Personal Studio Concept",
+      "year": "2026",
+      "featured": false,
+      "visible": true,
+      "order": 6,
+      "slug": "ai-creative-fusion",
+      "seoTitle": "AI Creative Visual Synthesis — Mohab Mohammed",
+      "seoDescription": "Next-generation AI generative creative art directed by Mohab Mohammed.",
+      "createdAt": "2026-09-12T16:00:00.000Z",
+      "updatedAt": "2026-09-21T07:37:19.927Z"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-1",
+      "title": "Golden Bean Coffee Commercial Poster",
+      "titleAr": "إعلان قهوة Golden Bean",
+      "titleEn": "Golden Bean Coffee Ad",
+      "descriptionAr": "بوستر إعلاني تجاري لمنتج قهوة بريميوم مع إضاءة ستوديو واقعية وتناثر حبوب البن.",
+      "descriptionEn": "Commercial poster for premium coffee with studio chiaroscuro lighting.",
+      "category": "advertising",
+      "categoryAr": "إعلانات تجارية",
+      "categoryEn": "Advertising",
+      "image": "/assets/images/project_coffee.jpg",
+      "aspect": "aspect-[3/4]",
+      "tags": [
+        "قهوة",
+        "إعلان",
+        "فوتوشوب"
+      ],
+      "featured": true,
+      "visible": true,
+      "order": 1,
+      "createdAt": "2026-09-01T10:00:00.000Z",
+      "updatedAt": "2026-09-20T20:00:00.000Z"
+    },
+    {
+      "id": "gal-2",
+      "title": "Al-Ofuq Real Estate Flyer",
+      "titleAr": "فلاير الأفق العقارية",
+      "titleEn": "Al-Ofuq Real Estate Flyer",
+      "descriptionAr": "مطبوعة تسويقية راقية لمشروع سكني فاخر مع إبراز تفاصيل الموقع وخطط السداد.",
+      "descriptionEn": "High-end architectural flyer displaying property layouts and features.",
+      "category": "print",
+      "categoryAr": "مطبوعات عقارية",
+      "categoryEn": "Print Flyer",
+      "image": "/assets/images/project_villa.jpg",
+      "aspect": "aspect-[3/4]",
+      "tags": [
+        "عقارات",
+        "فلاير",
+        "طباعة"
+      ],
+      "featured": false,
+      "visible": true,
+      "order": 2,
+      "createdAt": "2026-09-03T11:00:00.000Z",
+      "updatedAt": "2026-09-20T20:00:00.000Z"
+    },
+    {
+      "id": "gal-3",
+      "title": "Sky Travel Brochure",
+      "titleAr": "بروشور Sky Travel السياحي",
+      "titleEn": "Sky Travel Brochure",
+      "descriptionAr": "تصميم بروشور ترويجي لوكالة سياحة وسفر يضم معالم عالمية وألوان حيوية.",
+      "descriptionEn": "Tri-fold travel brochure with worldwide landmark destinations.",
+      "category": "print",
+      "categoryAr": "بروشور سياحي",
+      "categoryEn": "Travel Brochure",
+      "image": "/assets/images/project_travel.jpg",
+      "aspect": "aspect-[3/4]",
+      "tags": [
+        "سياحة",
+        "بروشور",
+        "طباعة"
+      ],
+      "featured": true,
+      "visible": true,
+      "order": 3,
+      "createdAt": "2026-09-05T12:00:00.000Z",
+      "updatedAt": "2026-09-20T20:00:00.000Z"
+    },
+    {
+      "id": "gal-4",
+      "title": "Commercial Print and Roll-up Showcase",
+      "titleAr": "لوحة معرض الأعمال والمطبوعات",
+      "titleEn": "Advertising & Print Board",
+      "descriptionAr": "مجموعة المطبوعات التجارية الموحدة تشمل كروت وبانرات وهوية تجارية متكاملة.",
+      "descriptionEn": "Consolidated commercial identity showcase encompassing banners and business cards.",
+      "category": "branding",
+      "categoryAr": "معرض الأعمال",
+      "categoryEn": "Full Portfolio Showcase",
+      "image": "/assets/images/portfolio_board.jpg",
+      "aspect": "aspect-square",
+      "tags": [
+        "هوية بصرية",
+        "مطبوعات",
+        "رول أب"
+      ],
+      "featured": false,
+      "visible": true,
+      "order": 4,
+      "createdAt": "2026-09-08T09:00:00.000Z",
+      "updatedAt": "2026-09-20T20:00:00.000Z"
+    },
+    {
+      "id": "gal-5",
+      "title": "استوديو العمل والمؤثرات الرقمية",
+      "titleAr": "استوديو العمل والمؤثرات الرقمية",
+      "titleEn": "Creative High-Tech Studio",
+      "descriptionAr": "تكوين فني بصري يعبر عن استوديو التصميم المتقدم مع الإضاءات الرقمية الزرقاء والبرتقالية.",
+      "descriptionEn": "Futuristic visual studio artwork highlighting neon blue and warm amber atmosphere.",
+      "category": "ai",
+      "categoryAr": "AI",
+      "categoryEn": "AI",
+      "image": "/uploads/gallery/ChatGPT_Image_20________2026___1789976257613.png",
+      "aspect": "aspect-video",
+      "tags": [
+        "استوديو",
+        "سينمائي",
+        "إضاءات"
+      ],
+      "featured": false,
+      "visible": true,
+      "order": 5,
+      "createdAt": "2026-09-12T16:00:00.000Z",
+      "updatedAt": "2026-09-21T07:37:40.758Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-all",
+      "slug": "all",
+      "nameAr": "الكل",
+      "nameEn": "All",
+      "order": 1
+    },
+    {
+      "id": "cat-social",
+      "slug": "social",
+      "nameAr": "سوشيال ميديا",
+      "nameEn": "Social Media",
+      "order": 2
+    },
+    {
+      "id": "cat-advertising",
+      "slug": "advertising",
+      "nameAr": "إعلانات",
+      "nameEn": "Advertising",
+      "order": 3
+    },
+    {
+      "id": "cat-print",
+      "slug": "print",
+      "nameAr": "مطبوعات",
+      "nameEn": "Print",
+      "order": 4
+    },
+    {
+      "id": "cat-branding",
+      "slug": "branding",
+      "nameAr": "هوية بصرية",
+      "nameEn": "Branding",
+      "order": 5
+    },
+    {
+      "id": "cat-ai",
+      "slug": "ai",
+      "nameAr": "AI",
+      "nameEn": "AI",
+      "order": 6
+    },
+    {
+      "id": "cat-photoshop",
+      "slug": "photoshop",
+      "nameAr": "Photoshop",
+      "nameEn": "Photoshop",
+      "order": 7
+    },
+    {
+      "id": "cat-illustration",
+      "slug": "illustration",
+      "nameAr": "Illustration",
+      "nameEn": "Illustration",
+      "order": 8
+    }
+  ],
+  "branding": {
+    "logo": {
+      "activeUrl": "/uploads/branding/logo/ChatGPT_Image_21________2026___1789973566094.png",
+      "altText": "Mohab Mohammed - Official Brand Logo",
+      "widthDesktop": 340,
+      "widthMobile": 220,
+      "position": "right",
+      "previousUrls": [
+        "/assets/images/mohab_logo.png"
+      ]
+    },
+    "profile": {
+      "activeUrl": "/uploads/branding/profile/ChatGPT_Image_Sep_20__2026__09_1789975915063.png",
+      "altText": "Mohab Mohammed - Graphic Designer & AI Creative",
+      "width": 460,
+      "height": 460,
+      "objectFit": "cover",
+      "positionX": 50,
+      "positionY": 50,
+      "previousUrls": [
+        "/assets/images/mohab_portrait.jpg"
+      ]
+    },
+    "hero": {
+      "activeUrl": "/uploads/branding/hero/ChatGPT_Image_21________2026___1789975950638.png",
+      "altText": "Mohab Mohammed Creative Visual Arts Studio",
+      "previousUrls": [
+        "/assets/images/mohab_hero_bg.jpg",
+        "/assets/images/hero_banner.jpg"
+      ],
+      "desktopPosition": {
+        "x": 50,
+        "y": 50
+      },
+      "desktopSize": "cover",
+      "tabletPosition": {
+        "x": 50,
+        "y": 50
+      },
+      "tabletSize": "cover",
+      "mobilePosition": {
+        "x": 50,
+        "y": 50
+      },
+      "mobileSize": "cover",
+      "heroHeightDesktop": 730,
+      "heroHeightTablet": 640,
+      "heroHeightMobile": 660,
+      "overlayEnabled": true,
+      "overlayOpacity": 20,
+      "overlayDirection": "right-to-left",
+      "textPositionDesktop": {
+        "x": 0,
+        "y": 0
+      },
+      "textPositionTablet": {
+        "x": 0,
+        "y": 0
+      },
+      "textPositionMobile": {
+        "x": 0,
+        "y": 0
+      },
+      "textMaxWidth": 640
+    }
+  },
+  "updatedAt": "2026-09-21T07:45:27.717Z"
+}
